@@ -1,0 +1,2 @@
+# XDXL-LoRA-DreamBooth-Fine-Tuning-Text-to-Image-Diffusion-Models-for-Subject-Driven-Generation
+This is my university's final year capstone thesis project explores fine-tuning text-to-image diffusion models using XDXL LoRA and DreamBooth for subject-driven generation. It focuses on improving subject consistency and image quality with efficient training and evaluation using quantitative and visual metrics.
